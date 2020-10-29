@@ -1,0 +1,17 @@
+.general{
+    padding-top: 10px;
+    padding-left: 15px;
+    background-color: grey;
+}
+#container {
+    padding-left: 200px;
+}
+#btn {
+    margin-left: 10px;
+    background-color: blue; 
+}
+#newBook {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    background-color: red;  
+}
